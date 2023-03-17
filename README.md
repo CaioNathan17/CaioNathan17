@@ -21,6 +21,6 @@ Possuo conhecimento em: HTML, CSS, JavaScript, Wordpress, GIT, GitHub, SQL, Wind
   
 
 
-<p>E-mail: caio-nathan@hotmail.com</p>
+E-mail: caio-nathan@hotmail.com
 
 
