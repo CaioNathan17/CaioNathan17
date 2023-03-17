@@ -19,7 +19,8 @@ Sou encantado e apaixonado por tecnologia, busco sempre novos conhecimentos cons
 
 Possuo conhecimento em: HTML, CSS, JavaScript, Wordpress, GIT, GitHub, SQL, Windows, e atualmente tenho estudado: Node.js 
   
-
+<p>
 
 E-mail: caio-nathan@hotmail.com
 
+ </p>
