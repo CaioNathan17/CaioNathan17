@@ -10,7 +10,7 @@
 
 Olá, 
 
-Meu nome é Caio, tenho 25 anos, sou graduado em Ciência da Computação, e atualmente trabalho como Analista de suporte. Tenho o foco em me ingressar na área de desenvolvimento, com o intuito de me especializar em linguagens de programação e adentrar cada vez mais no mundo Dev. 
+Meu nome é Caio, tenho 25 anos, sou graduado em Ciência da Computação, e atualmente trabalho como Analista de suporte. Tenho o objetivo em me ingressar na área de desenvolvimento, com o intuito de me especializar em linguagens de programação e adentrar cada vez mais no mundo Dev. 
 
 Em minha faculdade, tive o privilégio de conhecer algumas linguagens em programação, HTML, CSS, Java, Phyton, C, JavaScript, SQL. E com isso, pude aprimorar minha base de conhecimento nesta trajetória. 
 
@@ -24,3 +24,9 @@ Possuo conhecimento em: HTML, CSS, JavaScript, Wordpress, GIT, GitHub, SQL, Wind
 E-mail: caio-nathan@hotmail.com
 
 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caionathan17&theme=react) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caionathan17&theme=react)](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=react)
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caionathan17&theme=react) | ![](https://github-readme-streak-stats.herokuapp.com/?user=caionathan17&theme=react) |
+| :-: | :-: |
