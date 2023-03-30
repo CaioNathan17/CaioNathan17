@@ -17,7 +17,7 @@ Em minha faculdade, tive o privilégio de conhecer algumas linguagens em program
 Sou encantado e apaixonado por tecnologia, busco sempre novos conhecimentos constantemente, tendo um foco em conquistar meus objetivos profissionais e principalmente ajudar meus companheiros nesta trajetória.
 
 
-Possuo conhecimento em: HTML, CSS, JavaScript, Wordpress, GIT, GitHub, SQL, Windows, e atualmente tenho estudado: Node.js 
+Possuo conhecimento em: HTML, CSS, JavaScript, Wordpress, GIT, GitHub, SQL, Windows, e atualmente tenho estudado: React.js 
   
 
 
