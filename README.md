@@ -10,7 +10,7 @@
 
 Olá, 
 
-Meu nome é Caio, tenho 25 anos, sou graduado em Ciência da Computação, e atualmente trabalho como Analista de suporte. Tenho o objetivo em me ingressar na área de desenvolvimento, com o intuito de me especializar em linguagens de programação e adentrar cada vez mais no mundo Dev. 
+Meu nome é Caio, tenho 26 anos, sou graduado em Ciência da Computação, e apaixonado por tecnologia, trago uma trajetória rica em aprendizado e experiências nas áreas de desenvolvimento de software, administração de bancos de dados e suporte técnico. Possuo uma sólida expertise em Oracle, PostgreSQL, bem como experiência em desenvolvimento de aplicações em Java, HTML, CSS, JavaScript e Front-End. Estou constantemente em busca de novos desafios e oportunidades de crescimento, comprometido em aprimorar meu conhecimento e enfrentar os desafios inovadores deste campo em constante evolução.
 
 Em minha faculdade, tive o privilégio de conhecer algumas linguagens em programação, HTML, CSS, Java, Phyton, C, JavaScript, SQL. E com isso, pude aprimorar minha base de conhecimento nesta trajetória. 
 
